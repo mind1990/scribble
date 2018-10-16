@@ -18,7 +18,7 @@ $ source .env/bin/activate
 $ pip install Django==2.0.5
 $ pip install psycopg2
 $ pip freeze > requirements.txt
-$ django-admin startproject scribble_project
+$ django-admin startproject scribble_project .
 $ cd scribble_project
 $ django-admin startapp scribble
 ```
