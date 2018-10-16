@@ -33,8 +33,8 @@ The `.` creates a new Django app inside the *CURRENT* folder. Otherwise, it crea
 
 ### Models + Migrations
 
-1. Create [models](https://git.generalassemb.ly/sf-wdi-48/django-models) for Post and Comment
-2. Create [migrations](https://git.generalassemb.ly/sf-wdi-48/django-views-and-templates) for Post and Comment
+1. Create [models](https://git.generalassemb.ly/sf-wdi-48/django-models#models) for Post and Comment
+2. Create [migrations](https://git.generalassemb.ly/sf-wdi-48/django-models#migrations) for Post and Comment
 
 We will start off with two models: `Post` and `Comment`.
 
